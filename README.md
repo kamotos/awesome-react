@@ -544,6 +544,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-router - A complete routing solution for React.js](https://github.com/rackt/react-router)
 * [react-router-component - Declarative router component for React](https://github.com/STRML/react-router-component)
 * [routr - A component that provides router related functionalities from Yahoo](https://github.com/yahoo/routr)
+* [react-routing - Routing and navigation solution for React.js applications (early preview)](https://github.com/kriasoft/react-routing)
 
 ##### Forms
 * [React Forms](http://facebook.github.io/react/docs/forms.html)
